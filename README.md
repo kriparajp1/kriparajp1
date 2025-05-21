@@ -1,137 +1,126 @@
 <div align="center">
-<img src="https://i.postimg.cc/2Schy8KY/20240112-112627.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
-
-
-### Hi there! 👋  
-### <div align="center">I'm Kripa Raj, a MERN stack developer passionate about crafting robust and innovative web applications. Currently, I'm diving deep into mastering the MERN stack to build cutting-edge projects.</div>  
-  
-
-
-
-### About me  
-- 👀 I’m interested in MERN stack development.  
-  
-
-- 🌱 I’m currently learning and mastering the MERN stack.  
-  
-
-- 💡 If MERN is an art, I consider myself the artist of MERN stack development.  
-  
-
-- 🧠 I believe in continuous learning and strive to implement new things every day.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <img src="https://i.postimg.cc/2Schy8KY/20240112-112627.jpg" alt="Kripa Raj" style="width: 150px; border-radius: 50%; border: 3px solid #2c3e50;" />
 </div>
 
-</td><td valign="top" width="33%">
+# Kripa Raj
+### MERN Stack Developer | Crafting Innovative Web Solutions
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<div align="center">
+  <p>Passionate about building scalable, user-centric web applications with the MERN stack. I blend creativity and technical expertise to deliver robust, modern solutions. Always learning, always coding, always pushing the boundaries of what's possible.</p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🧑‍💻 About Me
+- 🎯 **Focus**: Mastering the MERN stack to create cutting-edge web applications.
+- 🌱 **Currently Learning**: Advanced MERN stack techniques, cloud architecture, and DevOps practices.
+- 🎨 **Philosophy**: If coding is an art, I'm the artist shaping seamless digital experiences.
+- 🚀 **Mission**: To innovate, learn continuously, and contribute impactful solutions to the tech world.
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+## 🛠️ My Skill Set
+I specialize in full-stack development with a strong focus on the MERN stack, complemented by expertise in DevOps and design tools. Below is a snapshot of my technical proficiencies:
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" style="vertical-align: top;">
+        <h3>Frontend</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" title="React" />
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" title="HTML5" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" title="CSS3" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" title="Tailwind CSS" />
+          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" title="Bootstrap" />
+          <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" title="jQuery" />
+          <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" title="Figma" />
+        </div>
+      </td>
+      <td width="33%" style="vertical-align: top;">
+        <h3>Backend</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" title="MongoDB" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" title="Express.js" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" title="Node.js" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" title="Git" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" title="Nginx" />
+        </div>
+      </td>
+      <td width="33%" style="vertical-align: top;">
+        <h3>DevOps & Tools</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+          <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" title="AWS" />
+          <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" title="Azure" />
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" title="Linux" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" title="Git" />
+          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" title="Bash" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
-
-
-## Connect with me  
+## 📊 GitHub Stats
 <div align="center">
-<a href="https://github.com/kriparajp1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in//kriparajp/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/krip.p_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=kriparajp1&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriparajp1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
 
-<br/>  
+---
 
+## 🌟 Featured Projects
+Here are some of my standout projects that showcase my expertise in the MERN stack:
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kriparajp1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- **[Project Name 1]**: A full-stack MERN application with real-time features, leveraging React for a dynamic UI and Node.js/Express for a robust backend. [Link to project]
+- **[Project Name 2]**: A scalable e-commerce platform built with MongoDB and Tailwind CSS, focusing on performance and user experience. [Link to project]
+- **[Project Name 3]**: A DevOps-integrated project utilizing AWS for deployment and Git for version control. [Link to project]
 
-<br/>  
+---
 
+## 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1] - A deep dive into optimizing React performance. [Link]
+- [Blog Post Title 2] - Exploring MongoDB aggregation pipelines for efficient data processing. [Link]
+<!-- BLOG-POST-LIST:END -->
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+---
 
-<br/>  
-
-  
-
-<br/>  
+## 📬 Connect with Me
+Let's collaborate, discuss tech, or just chat about code! Reach out to me on:
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kriparajp1&&style=flat-square" align="center" />
-</div>  
-  
+  <a href="https://github.com/kriparajp1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/kriparajp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/krip.p_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-<br/>  
+---
+
+## ☕ Support My Work
+If you like what I do, consider buying me a coffee to fuel my coding sessions!
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/kripp.me" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <a href="https://www.buymeacoffee.com/kripp.me" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</div>
 
-----
+---
 
+<div align="center">
+  <p>💻 Built with passion by Kripa Raj | Last updated: May 2024</p>
+  <img src="https://komarev.com/ghpvc/?username=kriparajp1&style=flat-square&color=blue" alt="Profile Views" />
+</div>
