@@ -1,126 +1,256 @@
-<div align="center">
-  <img src="https://i.postimg.cc/2Schy8KY/20240112-112627.jpg" alt="Kripa Raj" style="width: 150px; border-radius: 50%; border: 3px solid #2c3e50;" />
-</div>
-
 # Kripa Raj
-### MERN Stack Developer | Crafting Innovative Web Solutions
 
 <div align="center">
-  <p>Passionate about building scalable, user-centric web applications with the MERN stack. I blend creativity and technical expertise to deliver robust, modern solutions. Always learning, always coding, always pushing the boundaries of what's possible.</p>
+  <img src="https://i.postimg.cc/2Schy8KY/20240112-112627.jpg" alt="Kripa Raj" style="width: 160px; height: 160px; border-radius: 50%; border: 4px solid #0284c7; object-fit: cover;" />
+
+  ### 🚀 Full Stack Developer | MERN Specialist | CTO @SynxZap
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kriparajp1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriparajp)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kriparaj)
+  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
+  📍 **Based in:** Elavattom, Kerala, India
+  
+  *Passionate about building scalable, user-centric web applications with the MERN stack. I blend creativity and technical expertise to deliver robust, modern solutions. Always learning, always coding, always pushing the boundaries of what's possible.*
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎯 **Focus**: Mastering the MERN stack to create cutting-edge web applications.
-- 🌱 **Currently Learning**: Advanced MERN stack techniques, cloud architecture, and DevOps practices.
-- 🎨 **Philosophy**: If coding is an art, I'm the artist shaping seamless digital experiences.
-- 🚀 **Mission**: To innovate, learn continuously, and contribute impactful solutions to the tech world.
+## 👨‍💻 About Me
+
+I'm a dedicated **Full Stack Developer** and **CTO at SynxZap Automation Pvt Ltd**, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. With a strong foundation in both frontend and backend development, I'm passionate about creating seamless digital experiences and leading tech innovation.
+
+### Current Role
+**Chief Technology Officer @ SynxZap Automation Pvt Ltd**
+- Leading technical strategy and architecture decisions
+- Building scalable web applications and APIs
+- Managing cloud infrastructure and DevOps operations
+- Mentoring development team and establishing best practices
+- Overseeing product roadmap and technology stack
+
+### Key Highlights
+- ⚡ CTO with 2+ years of full-stack development experience
+- 💡 Specialized in MERN stack and enterprise application architecture
+- 🔧 Strong understanding of DevOps, Cloud Infrastructure & System Design
+- 📱 Expert in responsive design and performance optimization
+- 🤝 Team leader with mentoring and management experience
+- 🚀 Proven ability to translate business requirements into technical solutions
 
 ---
 
-## 🛠️ My Skill Set
-I specialize in full-stack development with a strong focus on the MERN stack, complemented by expertise in DevOps and design tools. Below is a snapshot of my technical proficiencies:
+## 🛠️ Technical Skills
+
+### Frontend Development
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose&logoColor=white)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### Chief Technology Officer @ SynxZap Automation Pvt Ltd
+**Present**
+- **Responsibilities:**
+  - Architecting and developing full-stack web applications
+  - Managing cloud infrastructure deployment on AWS & GCP
+  - Implementing DevOps pipelines and CI/CD workflows
+  - Leading technical team and code reviews
+  - Establishing coding standards and best practices
+  - Managing databases (MongoDB, Firestore) at scale
+  - Implementing RESTful APIs and webhook management
+
+- **Key Achievements:**
+  - Successfully deployed 10+ production applications
+  - Reduced deployment time by 60% through automation
+  - Mentored 5+ junior developers
+  - Established enterprise-grade architecture patterns
+
+---
+
+## ⭐ Technical Expertise & Competencies
+
+### Full-Stack Development
+- **Frontend:** React, Next.js, responsive design, state management
+- **Backend:** Node.js, Express.js, microservices architecture
+- **Databases:** MongoDB, Firestore, data modeling
+- **APIs:** RESTful APIs, GraphQL, WebSockets, Real-time features
+
+### Cloud & Infrastructure
+- **Platforms:** AWS (EC2, S3, Lambda, RDS), Google Cloud Platform
+- **Containerization:** Docker, container orchestration
+- **CI/CD:** GitHub Actions, automated deployments
+- **Monitoring:** Application performance monitoring, logging
+
+### Software Architecture
+- **Design Patterns:** MVC, MVVM, Repository Pattern
+- **Scalability:** Load balancing, caching strategies, database optimization
+- **Security:** Authentication, authorization, data encryption
+- **Performance:** Code optimization, asset management, CDN integration
+
+---
+
+## 🎯 Core Competencies
+
+| Competency | Proficiency |
+|------------|-------------|
+| MERN Stack Development | ⭐⭐⭐⭐⭐ |
+| Full Stack Architecture | ⭐⭐⭐⭐⭐ |
+| Cloud Infrastructure | ⭐⭐⭐⭐ |
+| API Design & Development | ⭐⭐⭐⭐⭐ |
+| DevOps & Deployment | ⭐⭐⭐⭐ |
+| Database Design | ⭐⭐⭐⭐ |
+| Team Leadership | ⭐⭐⭐⭐ |
+| Code Review & QA | ⭐⭐⭐⭐ |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" style="vertical-align: top;">
-        <h3>Frontend</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" title="React" />
-          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" title="HTML5" />
-          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" title="CSS3" />
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript" />
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
-          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" title="Tailwind CSS" />
-          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" title="Bootstrap" />
-          <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" title="jQuery" />
-          <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" title="Figma" />
-        </div>
-      </td>
-      <td width="33%" style="vertical-align: top;">
-        <h3>Backend</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" title="MongoDB" />
-          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" title="Express.js" />
-          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" title="Node.js" />
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" title="JavaScript" />
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" title="TypeScript" />
-          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" title="Git" />
-          <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" title="Nginx" />
-        </div>
-      </td>
-      <td width="33%" style="vertical-align: top;">
-        <h3>DevOps & Tools</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-          <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" title="AWS" />
-          <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" title="Azure" />
-          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" title="Linux" />
-          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" title="Git" />
-          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" title="Bash" />
-        </div>
-      </td>
-    </tr>
-  </table>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kriparajp1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/kriparajp1)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kriparajp1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kriparajp1)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Services & Expertise
+
+As a full-stack developer and CTO, I offer expertise in:
+
+✅ **Architecture & Strategy**
+- Enterprise application design
+- Scalability planning and optimization
+- Technology stack selection and evaluation
+- System design and microservices architecture
+
+✅ **Full-Stack Development**
+- MERN stack web applications
+- Responsive UI/UX implementation
+- RESTful API design and development
+- Real-time features with WebSockets
+
+✅ **DevOps & Cloud**
+- AWS and GCP infrastructure setup
+- Docker containerization and deployment
+- CI/CD pipeline implementation
+- Performance optimization and monitoring
+
+✅ **Technical Mentoring**
+- Code review and quality assurance
+- Best practices and design patterns
+- Mentoring junior developers
+- Technical documentation
+
+✅ **Consulting**
+- Technology recommendations
+- Performance audits
+- Security best practices
+- Cost optimization strategies
+
+---
+
+## 📚 Learning & Growth
+
+Continuously expanding expertise in:
+- 🤖 AI/ML Integration in web applications
+- 📱 Mobile App Development (React Native, Flutter)
+- 🔐 Advanced Security & Compliance
+- 🚀 Microservices & Serverless Architecture
+- 📊 Data Engineering & Analytics
+- ☁️ Kubernetes & Container Orchestration
+
+---
+
+## 🌟 Contributions & Open Source
+
+- Active contributor to open-source projects
+- Developer of utility libraries and tools
+- Regular mentor for aspiring developers
+- Participant in tech communities and hackathons
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in discussing:
+- Innovative tech solutions
+- Collaboration opportunities
+- Technical mentoring
+- Career growth and learning
+- Building impactful projects
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kriparajp1&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriparajp1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
 
----
+| Platform | Link |
+|----------|------|
+| **GitHub** | [github.com/kriparajp1](https://github.com/kriparajp1) |
+| **LinkedIn** | [linkedin.com/in/kriparajp](https://linkedin.com/in/kriparajp) |
+| **Twitter** | [@kriparaj](https://twitter.com/kriparaj) |
+| **Email** | [your.email@example.com](mailto:your.email@example.com) |
 
-## 🌟 Featured Projects
-Here are some of my standout projects that showcase my expertise in the MERN stack:
-
-- **[Project Name 1]**: A full-stack MERN application with real-time features, leveraging React for a dynamic UI and Node.js/Express for a robust backend. [Link to project]
-- **[Project Name 2]**: A scalable e-commerce platform built with MongoDB and Tailwind CSS, focusing on performance and user experience. [Link to project]
-- **[Project Name 3]**: A DevOps-integrated project utilizing AWS for deployment and Git for version control. [Link to project]
-
----
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1] - A deep dive into optimizing React performance. [Link]
-- [Blog Post Title 2] - Exploring MongoDB aggregation pipelines for efficient data processing. [Link]
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📬 Connect with Me
-Let's collaborate, discuss tech, or just chat about code! Reach out to me on:
-
-<div align="center">
-  <a href="https://github.com/kriparajp1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/kriparajp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/krip.p_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 ---
 
 ## ☕ Support My Work
-If you like what I do, consider buying me a coffee to fuel my coding sessions!
+
+If you find my projects helpful or enjoy my contributions to the tech community, consider supporting me:
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/kripp.me" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/kripp.me)
+
 </div>
 
 ---
 
+## 💡 Let's Build Something Great Together!
+
+Whether you're looking to start a new project, need technical consultation, or want to collaborate, feel free to reach out. I'm always excited about new opportunities and challenges.
+
+---
+
 <div align="center">
-  <p>💻 Built with passion by Kripa Raj | Last updated: May 2024</p>
-  <img src="https://komarev.com/ghpvc/?username=kriparajp1&style=flat-square&color=blue" alt="Profile Views" />
+
+### Thanks for visiting! 👋
+
+**Built with ❤️ by Kripa Raj**
+
+*Last Updated: January 2026*
+
+![Profile Views](https://komarev.com/ghpvc/?username=kriparajp1&style=flat-square&color=0284c7)
+
 </div>
+
+---
+
+## 📄 License
+
+This README and all my public repositories are available under the MIT License. Feel free to use them for learning and reference purposes.
